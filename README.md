@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-[https://zhejiang-map.lch262.chatgpt.site](https://zhejiang-domination-map-sigma.vercel.app/)
+[https://zhejiang-domination-map-sigma.vercel.app/]
 
 ## 功能
 
